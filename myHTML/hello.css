@@ -1,0 +1,20 @@
+body {
+padding: 30px 30px;
+font: 13px/100% Verdana, sans-serif;
+text-align: center;
+} body:after {
+content: "This text is generated using CSS";
+display: block;
+margin-top: 2em;
+} input {
+width: 50px;
+} span#result {
+width: 50px;
+display: inline-block;
+} form.exampleform {
+display: inline-block;
+border:1px solid;
+border-radius:20px;
+box-shadow: 5px 5px 2px #888888;
+padding: 20px;
+}
